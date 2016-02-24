@@ -7,6 +7,8 @@ This repository contains all the works during the courses of Computational Physi
 - School Number: You do not need to know.
 - Grade: Final year of undergraduate (2016)
 
-## Comments on homeworks
+**Note**: I have not registered on this course, but I decide to work through its homeworks. Do not ask me any my detail personal informations. Those necessary have been written in this file, or will be added in the future if I think needed at the time.
+
+## Comments on homeworks 
 
 ### 1st homework
