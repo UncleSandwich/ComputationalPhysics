@@ -12,3 +12,5 @@ This repository contains all the works during the courses of Computational Physi
 ## Comments on homeworks 
 
 ### 1st homework
+- Using environment path you can use cmd to open Anaconda and ipython in Windows.
+- Vim is not suitable on my surface because its font is too small to see on my screen.
