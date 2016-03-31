@@ -1,0 +1,9 @@
+#Population Growth Calculation
+
+This program is used to calculate the population growth based on the equation $\frac{dN}{dt}=a*N-b*N^2$ showed in the exercise 1.6 of the textbook *Computational Physics*.
+
+You can arbitrarily change the values of a, b, and initial population N_0, to see what phenomena will occur.
+
+##Update log
+
+- 2016/3/31: Adding the program, with basic plot and raw_input function 
